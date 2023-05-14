@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.inner-div{
+	margin: 10px;
+	background-color: #cdc7ca;
+	padding: 15px;
+	position: relative;
+	text-align: center;
+}
+.inner-div>h2{
+	text-align: center;
+}
+.navbar-expand-lg .navbar-collapse{
+	justify-content: center;
+}
+.navbar-collapse.collapse{
+	display: flex;
+}
+.nav-link{
+	font-weight: 600;
+	font-size: 1.5rem;
+}
